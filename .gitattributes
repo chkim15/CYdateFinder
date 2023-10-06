@@ -1,1 +1,2 @@
+build/** linguist-vendored
 *.py linguist-detectable=true
